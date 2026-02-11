@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Manisha sarkar 🧑🏻‍💻<br> Curently a 2nd year B.Tech CSE student <br>Building android app to help people every day <br>a UI/UX designer and also a front-end developer<br>currently learning about SEO and improving my digital-marketing skills<br>
+My name is Manisha sarkar 🧑🏻‍💻<br> Curently a 2nd year B.Tech CSE student <br>Building android app to help people every day <br>a UI/UX designer and also a fullstack developer<br>currently learning about SEO and improving my digital-marketing skills<br>
 
 
 ## 🌐 Socials:
