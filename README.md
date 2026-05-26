@@ -92,7 +92,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manishasarkar-hue&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
 
- <img src="https://github-profile-trophy.vercel.app/?username=manishasarkar-hue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6&cache_seconds=1800" height="150" alt="trophy graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishasarkar-hue&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 <div align="center">
