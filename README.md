@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋What's Up?<br>Its Manisha here ! lets connect 👩🏻‍💻</h1>
-<h3 align="center">Frontend Developer • UI/UX Designer • AI Enthusiast</h3>
+<h3 align="center">FullStack Developer • UI/UX Designer • AI Enthusiast</h3>
 
 ###
 
