@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋What's Up?<br>Its Manisha here ! lets connect 👩🏻‍💻</h1>
+<h3 align="center">Frontend Developer • UI/UX Designer • AI Enthusiast</h3>
 
 ###
 
@@ -69,13 +70,16 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=manishasarkar-hue&label=Profile%20Views&color=ff69b4&style=flat" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/manisha-sarkar-8496b6378/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a href="https://mail.google.com/sarkarmanisha493@gmail.com" target="_blank">
+ <a href="mailto:sarkarmanisha493@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://open.spotify.com/user/31lpdpecirtbvii7ezwikzboppaa" target="_blank">
