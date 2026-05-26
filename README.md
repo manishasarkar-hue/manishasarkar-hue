@@ -90,9 +90,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=manishasarkar-hue&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" height="150" />
+  <img src="https://streak-stats.demolab.com?user=manishasarkar-hue&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=manishasarkar-hue&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manishasarkar-hue&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
 </div>
 
 <div align="center">
