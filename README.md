@@ -88,7 +88,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=manishasarkar-hue&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <img src="https://github-profile-trophy.vercel.app/?username=manishasarkar-hue&theme=dracula&no-frame=true&no-bg=false&margin-w=4" height="150" alt="trophy graph" />
-
+</div>
 ###
 
 <div align="center">
