@@ -86,9 +86,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=manishasarkar-hue&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=manishasarkar-hue&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" height="150" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=manishasarkar-hue&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&cache_seconds=86400" height="150" alt="trophy graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manishasarkar-hue&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="150" />
 </div>
 
 <div align="center">
