@@ -1,4 +1,4 @@
-<h1 align="center">Hey ! buddy👋<br>Its Manisha here ! lets connect 👩🏻‍💻</h1>
+<h1 align="center">Hey👋<br>Its Manisha here ! lets connect 👩🏻‍💻</h1>
 <h3 align="center">FullStack Developer • UI/UX Designer • AI Enthusiast</h3>
 <p align="center">
   Building aesthetic digital experiences ✨
