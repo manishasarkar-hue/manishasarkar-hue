@@ -91,13 +91,25 @@
 </div>
 
 ###
+<details>
+  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=manishasarkar-hue&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
+  <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=manishasarkar-hue&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
-</div>
+  <div align="center">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/manishasarkar-hue/manishasarkar-hue/pacman-output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/manishasarkar-hue/manishasarkar-hue/output/pacman-contribution-graph-dark.svg">
+
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/manishasarkar-hue/manishasarkar-hue/output/pacman-contribution-graph.svg">
+
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/manishasarkar-hue/manishasarkar-hue/output/pacman-contribution-graph.svg">
+  </picture>
+
+  </div>
+
+</details>
