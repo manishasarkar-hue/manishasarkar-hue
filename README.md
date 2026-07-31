@@ -72,7 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=manishasarkar-hue&label=Profile%20Views&color=ff69b4&style=flat" />
 </div>
