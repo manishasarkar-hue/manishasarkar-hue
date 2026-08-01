@@ -75,7 +75,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=manishasarkar-hue&label=Profile%20Views&color=ff69b4&style=flat" />
 </div>
-
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/manisha-sarkar-8496b6378/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -98,8 +98,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/manishasarkar-hue/manishasarkar-hue/pacman-output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 </div>
-<details>
-
-  </div>
-
-</details>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishasarkar-hue&theme=swift&animation=load&name=Manisha+Sarkar)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishasarkar-hue&theme=swift&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishasarkar-hue&theme=swift&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishasarkar-hue&theme=swift&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishasarkar-hue&theme=swift&animation=load&utcOffset=0)
