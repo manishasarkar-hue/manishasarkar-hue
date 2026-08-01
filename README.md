@@ -129,11 +129,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishasarkar-hue&theme=swift" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishasarkar-hue&theme=swift&utcOffset=5.5" width="49%"/>
 </p>
+
+<br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manishasarkar-hue&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
-<br>
-
 <h2 align="center">👾 Contribution Graph</h2>
 
 <div align="center">
