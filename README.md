@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer • UI/UX Designer • AI Enthusiast</h3>
 
 <p align="center">
-  Building aesthetic digital experiences ✨
+ "Turning coffee ☕ into clean code and creative experiences."
 </p>
 
 <br>
