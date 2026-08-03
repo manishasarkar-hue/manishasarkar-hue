@@ -118,33 +118,6 @@
 
 ---
 
-<h2 align="center">📈 GitHub Statistics</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manishasarkar-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishasarkar-hue&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
-<h2 align="center">📊 GitHub Summary</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishasarkar-hue&theme=github_dark" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishasarkar-hue&theme=github_dark" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishasarkar-hue&theme=github_dark" width="49%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishasarkar-hue&theme=github_dark" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishasarkar-hue&theme=github_dark&utcOffset=5.5" width="49%">
-</p>
-
-<br>
-
 <h2 align="center">👾 Contribution Graph</h2>
 
 <div align="center">
