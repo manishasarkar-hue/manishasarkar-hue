@@ -1,3 +1,7 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="manishasarkar-hue" /></p>
+
 <h1 align="center">Hey !👋 <br>It's Manisha here! Let's Connect 👩🏻‍💻</h1>
 
 <h3 align="center">Full Stack Developer • UI/UX Designer • AI Enthusiast</h3>
