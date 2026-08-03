@@ -131,24 +131,6 @@
 
 <h2 align="center">👾 Contribution Graph</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manishasarkar-hue/manishasarkar-hue/pacman-output/pacman-contribution-graph.svg" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishasarkar-hue&theme=swift" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishasarkar-hue&theme=swift" width="49%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishasarkar-hue&theme=swift" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishasarkar-hue&theme=swift&utcOffset=5.5" width="49%"/>
-</p>
-
-<br>
-
-<h2 align="center">👾 Contribution Graph</h2>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/manishasarkar-hue/manishasarkar-hue/pacman-output/pacman-contribution-graph.svg"/>
 </div>
