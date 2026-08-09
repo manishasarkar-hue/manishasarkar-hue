@@ -110,6 +110,43 @@
 <img src="https://raw.githubusercontent.com/manishasarkar-hue/manishasarkar-hue/pacman-output/pacman-contribution-graph.svg"/>
 </div>
 <div align="center">
+
+<h2 align="center">📊 GitHub Summary</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishasarkar-hue&theme=holi&animation=load&name=Manisha+Sarkar"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishasarkar-hue&theme=holi&animation=load"
+    width="49%"
+    alt="Repositories per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishasarkar-hue&theme=holi&animation=load"
+    width="49%"
+    alt="Most Commit Language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishasarkar-hue&theme=holi&animation=load"
+    width="49%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishasarkar-hue&theme=holi&animation=load&utcOffset=5.5"
+    width="49%"
+    alt="Productive Time"
+  />
+</p>
+ 
         <h1>💻 Tech Skills</h1>
  </div>
 
