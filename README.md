@@ -103,13 +103,6 @@
 </div>
 
 ---
-
-<h2 align="center">👾 Contribution Graph</h2>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/manishasarkar-hue/manishasarkar-hue/pacman-output/pacman-contribution-graph.svg"/>
-</div>
-<div align="center">
  
 <h2 align="center">👩🏻‍💻 Streak Stats</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=manishasarkar-hue" alt="GitHub Streak" /></a>
