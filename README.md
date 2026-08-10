@@ -258,7 +258,7 @@
 <!-- ==================== PAC-MAN CONTRIBUTION GRAPH ==================== -->
 
 <h2 align="center">
-  👻 COMMIT PAC-MAN - PAC-MAN COMMITS
+🧩 PAC-MAN CONTRIBUTION GRAPH 
 </h2>
 
 <p align="center">
