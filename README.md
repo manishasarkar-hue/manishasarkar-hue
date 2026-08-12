@@ -258,7 +258,7 @@
 <!-- ==================== PAC-MAN CONTRIBUTION GRAPH ==================== -->
 
 <h2 align="center">
-🧩 PAC-MAN CONTRIBUTION GRAPH 
+🧩 PAC-MAN CONTRIBUTION GRAPH ~
 </h2>
 
 <p align="center">
