@@ -105,8 +105,7 @@
 ---
  
 <h2 align="center">👩🏻‍💻 Streak Stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=manishasarkar-hue" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=manishasarkar-hue" alt="GitHub Streak" /></a>
 <h2 align="center">📊 GitHub Summary</h2>
 
 <p align="center">
