@@ -103,6 +103,15 @@
 </div>
 
 ---
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=manishasarkar-hue&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
 <h2 align="center">📊 GitHub Summary</h2>
 
 <p align="center">
