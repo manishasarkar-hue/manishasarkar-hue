@@ -112,6 +112,23 @@
   />
 </p>
 
+
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com/?user=manishasarkar-hue&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=manishasarkar-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+</p>
+
 <h2 align="center">📊 GitHub Summary</h2>
 
 <p align="center">
