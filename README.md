@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋<br>It's Manisha here! Let's Connect 👩🏻‍💻!</h1>
 <h3 align="center">Full Stack Developer • UI/UX Designer • AI Enthusiast</h3>
-<p align="center">   "Turning coffee ☕ into clean code and creative experiences"
+<p align="center">
 </p>
 
 <br>
